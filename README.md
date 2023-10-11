@@ -7,7 +7,7 @@ Bienvenido a la guia de proyecto de un pipeline. En este repositorio, exploramos
 ## Video en YouTube
 [![Ver Video](https://img.shields.io/badge/Ver%20Video-en%20YouTube-red)]([https://www.youtube.com/watch?v=3Lwl5GRVrfM&t=907s](https://youtu.be/3Lwl5GRVrfM?si=uDWtYct6CTK1iZCJ))
 
-[![Miniatura del Video](ruta_a_miniatura.jpg)]([https://www.youtube.com/watch?v=3Lwl5GRVrfM&t=907s](https://youtu.be/3Lwl5GRVrfM?si=uDWtYct6CTK1iZCJ))
+[![Miniatura del Video](miniatura.jpg)]([https://www.youtube.com/watch?v=3Lwl5GRVrfM&t=907s](https://youtu.be/3Lwl5GRVrfM?si=uDWtYct6CTK1iZCJ))
 
 ## Herramientas Clave
 Este proyecto se basa en las siguientes herramientas y tecnologías:
