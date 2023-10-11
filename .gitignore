@@ -1,0 +1,6 @@
+/venv
+/kafka_2.12-3.5.1
+/spark-3.5.0-bin-hadoop3
+
+airflow/*
+!airflow/dags/
